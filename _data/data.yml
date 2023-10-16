@@ -1,63 +1,108 @@
-name: Kontonasios Antonios
+name: John Doe
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: antonikontos@gmail.com
-  github: tonykontos
-  linkedin: Antonis Kontonasios
-  phone: 6946792631
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
+  phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: Greek
   - idiom: English
+  - idiom: Russian
+  - idiom: French
 
 education:
-  - degree: Master Human Computer Interaction 
-    time: 2023-Present
-    university: University of Patras
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
 
-  - degree: B.A. Informatics and Telecommunications
-    time: 2013-2019
-    university: University of Ioannina
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
+skills:
+  - category: Backend
+    skill: 
+      - Go
+      - Rust
+  - category: Frontend
+    skill:
+      - React
+      - Typescript
+  - category: DevOps
+    skill:
+      - Docker
+      - Kubernetes 
 
 # Profile
 profile: |
-  My name is Antonis Kontonasis, and I am a graduate of the Department of Computer Engineering at the University of Ioannina. 
-  After my graduation, I started working as a web developer. 
-  The nature of the job often led me to explore web design as well, and it's something I've been wanting to delve into more and improve upon lately. 
-  That's why I chose to participate in the postgraduate program in Human-Computer Interaction."
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariatur.
 
 # Experience
 experience:
-  - role: Front End Web Developer
-    time: 2023-Present
-    company: Nodus360º
+  - role: Software Engineer
+    time: 2020-Present
+    company: Google
     details: |
-      Front-end web developer with experience in server administration, email services, and collaborating with graphic designers for site layout. 
-      I have also had the opportunity to work closely with content creators to enhance the user experience.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-      HTML, CSS, PHP, Jacescript
+      Go, Angular, Typescript, C++
   
-  - role: Web Developer
-    time: 2019-2023
-    company: Plantech.gr
+  - role: Researcher
+    time: 2016-2020
+    company: Microsoft
     details: |
-      Proficient in WordPress and Joomla for website development and management. 
-      Skilled in server administration, mail services, and graphic design tasks. 
-      Experienced in SEO and Google Analytics for optimizing online presence.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-      HTML, CSS, PHP, Jacescript, SEO, Google Analytics
+      Python, Tensorflow, Keras, Matlab
 
-   - role: Sales and Technical Electronics Repair Consultant
-    time: 2018-2019
-    company: Kotsovolos, Ioannina
+publications:
+  - title: Random title of paper. An interesting one.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
+
+  - title: Second title of paper. An interesting one too.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference again, 2018
+
+projects:
+  - title: Cool Project 
+    link: #
     details: |
-     Assisted customers with product inquiries and provided technical support.
-    #technologies_used: | 
-      HTML, CSS, PHP, Jacescript, SEO, Google Analytics
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
 
+  - title: Cool Project 
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
+# Volunteering
+volunteering:
+  - time: 2020-Present
+    role: PR Manager
+    company: Some random organization
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
