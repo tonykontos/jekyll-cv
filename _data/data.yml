@@ -25,27 +25,13 @@ education:
     time: 2013-2019
     university: University of Ioannina
     
-skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  My name is Antonis Kontonasis, and I am a graduate of the Department of Computer Engineering at the University of Ioannina. 
+  After my graduation, I started working as a web developer. 
+  The nature of the job often led me to explore web design as well, and it's something I've been wanting to delve into more and improve upon lately. 
+  That's why I chose to participate in the postgraduate program in Human-Computer Interaction.
 
 # Experience
 experience:
