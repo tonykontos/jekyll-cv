@@ -14,7 +14,6 @@ contact:
 languages:
   - idiom: Greek
   - idiom: English
-  #- idiom: French
 
 education:
   - degree: Master Human Computer Interaction 
@@ -25,19 +24,6 @@ education:
     time: 2013-2019
     university: University of Ioannina
 
-#skills:
-  #- category: Backend
-    #skill: 
-      - Go
-      - Rust
-  #- category: Frontend
-   # skill:
-      - React
-      - Typescript
-  #- category: DevOps
-    #skill:
-      - Docker
-      - Kubernetes 
 
 # Profile
 profile: |
