@@ -55,19 +55,6 @@ experience:
       HTML, CSS, PHP, Jacescript, SEO, Google Analytics
 
 
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
 # Volunteering
 volunteering:
   - time: 2020-Present
