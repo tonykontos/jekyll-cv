@@ -54,6 +54,14 @@ experience:
     technologies_used: | 
       HTML, CSS, PHP, Jacescript, SEO, Google Analytics
 
+   - role: Sales and Technical Electronics Repair Consultant
+    time: 2018-2019
+    company: Kotsovolos, Ioannina
+    details: |
+     Assisted customers with product inquiries and provided technical support.
+    #technologies_used: | 
+      HTML, CSS, PHP, Jacescript, SEO, Google Analytics
+
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
