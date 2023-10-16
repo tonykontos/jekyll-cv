@@ -35,29 +35,24 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Front End Web Developer
+    time: 2023-Present
+    company: Nodus360º
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Front-end web developer with experience in server administration, email services, and collaborating with graphic designers for site layout. 
+      I have also had the opportunity to work closely with content creators to enhance the user experience.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      HTML, CSS, PHP, Jacescript
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Web Developer
+    time: 2019-2023
+    company: Plantech.gr
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Proficient in WordPress and Joomla for website development and management. 
+      Skilled in server administration, mail services, and graphic design tasks. 
+      Experienced in SEO and Google Analytics for optimizing online presence.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      HTML, CSS, PHP, Jacescript, SEO, Google Analytics
 
 publications:
   - title: Random title of paper. An interesting one.
